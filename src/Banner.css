@@ -1,0 +1,38 @@
+.banner{
+    background: url("https://th.bing.com/th/id/OIP.tTBftoSuGx7WqeKpHLoCSgHaEK?w=333&h=187&c=7&o=5&dpr=1.1&pid=1.7");
+    height: 50vh;
+}
+.banner__info{
+    background-color: black;
+    color: white;
+    padding-top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    width: 300px;
+}
+.banner__info > button {
+    background-color: tomato;
+    color: thistle;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.banner__info >h5{
+    margin-top: 10px;
+}
+.banner__info > button {
+    background-color:white;
+    color:tomato
+}
+.banner__searchButton{
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color:#ff7779 !important;
+
+}
+.banner__search{
+    display: flex;
+    flex-direction: column;
+}
